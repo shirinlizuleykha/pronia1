@@ -1,0 +1,731 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Pronia1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|c:\\users\\asus\\source\\repos\\pronia1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|c:\\users\\asus\\source\\repos\\pronia1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|c:\\users\\asus\\source\\repos\\pronia1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|c:\\users\\asus\\source\\repos\\pronia1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|c:\\users\\asus\\source\\repos\\pronia1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|c:\\users\\asus\\source\\repos\\pronia1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|c:\\users\\asus\\source\\repos\\pronia1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\extensions\\hostenviromentextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445784B2-2799-44EA-B174-703002F9AADC}|..\\Pronia1Data\\Pronia1Data.csproj|c:\\users\\asus\\source\\repos\\pronia1data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445784B2-2799-44EA-B174-703002F9AADC}|..\\Pronia1Data\\Pronia1Data.csproj|c:\\users\\asus\\source\\repos\\pronia1data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445784B2-2799-44EA-B174-703002F9AADC}|..\\Pronia1Data\\Pronia1Data.csproj|c:\\users\\asus\\source\\repos\\pronia1data\\repositoryconcretes\\featurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445784B2-2799-44EA-B174-703002F9AADC}|..\\Pronia1Data\\Pronia1Data.csproj|c:\\users\\asus\\source\\repos\\pronia1data\\repositoryconcretes\\catagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445784B2-2799-44EA-B174-703002F9AADC}|..\\Pronia1Data\\Pronia1Data.csproj|c:\\users\\asus\\source\\repos\\pronia1data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445784B2-2799-44EA-B174-703002F9AADC}|..\\Pronia1Data\\Pronia1Data.csproj|c:\\users\\asus\\source\\repos\\pronia1data\\repositoryconcretes\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445784B2-2799-44EA-B174-703002F9AADC}|..\\Pronia1Data\\Pronia1Data.csproj|c:\\users\\asus\\source\\repos\\pronia1data\\repositoryconcretes\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\services\\abstracts\\icatagoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\exceptions\\duplicateentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\pronia1business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\extensions\\imageaddtocontentrootextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\services\\concretes\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\services\\concretes\\featureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\services\\concretes\\catagoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\exceptions\\imageextensionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\exceptions\\filenullreferenceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\services\\abstracts\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\services\\abstracts\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D81C8F0-E6E2-4A6A-AE2C-DE4CE9218271}|..\\Pronia1Business\\Pronia1Business.csproj|c:\\users\\asus\\source\\repos\\pronia1business\\services\\abstracts\\ifeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\repositoryabstracts\\icatagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\repositoryabstracts\\ifeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\repositoryabstracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\repositoryabstracts\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\repositoryabstracts\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|c:\\users\\asus\\source\\repos\\pronia1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15BDE31C-844A-4DE6-A9C3-199039626C84}|Pronia1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\models\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E5C62D-9AE2-4846-9442-81C3CC3197B7}|..\\Pronia1Core\\Pronia1Core.csproj|c:\\users\\asus\\source\\repos\\pronia1core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:09:48.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T03:09:45.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAIEJAAAAAAAAAAAIwI4JAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T03:09:29.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T03:09:26.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T03:09:24.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAN8EAAAAAAAAAAAIwPYEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T03:09:22.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:12:09.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Pronia1Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:01:35.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CatagoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\RepositoryConcretes\\CatagoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Data\\RepositoryConcretes\\CatagoryRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\RepositoryConcretes\\CatagoryRepository.cs",
+              "RelativeToolTip": "..\\Pronia1Data\\RepositoryConcretes\\CatagoryRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:59:11.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FeatureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\RepositoryConcretes\\FeatureRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Data\\RepositoryConcretes\\FeatureRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\RepositoryConcretes\\FeatureRepository.cs",
+              "RelativeToolTip": "..\\Pronia1Data\\RepositoryConcretes\\FeatureRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:00:51.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "..\\Pronia1Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:01:15.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Pronia1Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:41:58.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HostEnviromentExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Extensions\\HostEnviromentExtension.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Extensions\\HostEnviromentExtension.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Extensions\\HostEnviromentExtension.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Extensions\\HostEnviromentExtension.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:59:46.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\RepositoryConcretes\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Data\\RepositoryConcretes\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\RepositoryConcretes\\SliderRepository.cs",
+              "RelativeToolTip": "..\\Pronia1Data\\RepositoryConcretes\\SliderRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:59:59.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\RepositoryConcretes\\TagRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Data\\RepositoryConcretes\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Data\\RepositoryConcretes\\TagRepository.cs",
+              "RelativeToolTip": "..\\Pronia1Data\\RepositoryConcretes\\TagRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:59:36.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICatagoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Abstracts\\ICatagoryService.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Services\\Abstracts\\ICatagoryService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Abstracts\\ICatagoryService.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Services\\Abstracts\\ICatagoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:44:40.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DuplicateEntityException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Exceptions\\DuplicateEntityException.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Exceptions\\DuplicateEntityException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Exceptions\\DuplicateEntityException.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Exceptions\\DuplicateEntityException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:50:30.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pronia1Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Pronia1Business.csproj",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Pronia1Business.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Pronia1Business.csproj",
+              "RelativeToolTip": "..\\Pronia1Business\\Pronia1Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T03:02:22.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ImageAddToContentRootExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Extensions\\ImageAddToContentRootExtension.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Extensions\\ImageAddToContentRootExtension.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Extensions\\ImageAddToContentRootExtension.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Extensions\\ImageAddToContentRootExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:01:09.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CatagoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Concretes\\CatagoryService.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Services\\Concretes\\CatagoryService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Concretes\\CatagoryService.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Services\\Concretes\\CatagoryService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:45:00.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ImageExtensionException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Exceptions\\ImageExtensionException.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Exceptions\\ImageExtensionException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Exceptions\\ImageExtensionException.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Exceptions\\ImageExtensionException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:51:31.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Concretes\\FeatureService.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Services\\Concretes\\FeatureService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Concretes\\FeatureService.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Services\\Concretes\\FeatureService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:45:56.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:45:22.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Services\\Concretes\\SliderService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Services\\Concretes\\SliderService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAA+wEIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:45:33.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Concretes\\TagService.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Services\\Concretes\\TagService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Concretes\\TagService.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Services\\Concretes\\TagService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAqwDMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:45:10.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FileNullReferenceException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Exceptions\\FileNullReferenceException.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Exceptions\\FileNullReferenceException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Exceptions\\FileNullReferenceException.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Exceptions\\FileNullReferenceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:51:17.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Exceptions\\FileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Exceptions\\FileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:51:00.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:50:46.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Services\\Abstracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Services\\Abstracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:43:30.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Services\\Abstracts\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Services\\Abstracts\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:44:00.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Abstracts\\ITagService.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Services\\Abstracts\\ITagService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Abstracts\\ITagService.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Services\\Abstracts\\ITagService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:43:46.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IFeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Abstracts\\IFeatureService.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Business\\Services\\Abstracts\\IFeatureService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Business\\Services\\Abstracts\\IFeatureService.cs",
+              "RelativeToolTip": "..\\Pronia1Business\\Services\\Abstracts\\IFeatureService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:44:19.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:37:58.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:37:39.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IFeatureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\RepositoryAbstracts\\IFeatureRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\RepositoryAbstracts\\IFeatureRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\RepositoryAbstracts\\IFeatureRepository.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\RepositoryAbstracts\\IFeatureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:37:04.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:35:21.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\RepositoryAbstracts\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\RepositoryAbstracts\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\RepositoryAbstracts\\ITagRepository.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\RepositoryAbstracts\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:34:29.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICatagoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\RepositoryAbstracts\\ICatagoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\RepositoryAbstracts\\ICatagoryRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\RepositoryAbstracts\\ICatagoryRepository.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\RepositoryAbstracts\\ICatagoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:34:10.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:02:56.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:03:48.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\Tag.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:06:15.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\Slider.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\Models\\Slider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:06:34.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\Feature.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\Models\\Feature.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\Feature.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\Models\\Feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:06:57.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\Product.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:07:17.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Catagory.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\Catagory.cs",
+              "RelativeDocumentMoniker": "..\\Pronia1Core\\Models\\Catagory.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1Core\\Models\\Catagory.cs",
+              "RelativeToolTip": "..\\Pronia1Core\\Models\\Catagory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:07:45.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Pronia1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Pronia1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T02:21:14.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
